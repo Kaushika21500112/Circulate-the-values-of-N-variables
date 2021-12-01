@@ -30,7 +30,7 @@ def circulate():
 ~~~
 
 ## Output:
-![GitHub Logo](output.png)
+![GitHub Logo](result.png)
 
 ## Result:
 Thus the circulation of n variables using function concept are successfully executed.
